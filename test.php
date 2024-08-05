@@ -1,3 +1,3 @@
 <?php
-echo "hello india ";
+echo "hello us ";
 exit;
